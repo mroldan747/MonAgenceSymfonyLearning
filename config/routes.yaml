@@ -1,4 +1,6 @@
-
+logout:
+  path: /logout
+  methods: GET
 
 #index:
 #    path: /
